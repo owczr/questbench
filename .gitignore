@@ -27,3 +27,4 @@ MANIFEST
 questbench_data/
 questbench_data.tar.gz
 results/
+.ipynb_checkpoints/
